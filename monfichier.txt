@@ -1,2 +1,2 @@
 Coucou ;)
-Je modifie la ligne par'ci !
+Conflit résolu !
